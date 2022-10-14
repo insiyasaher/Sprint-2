@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-13T12:29:58 IST" name="Default suite" finished-at="2022-10-13T12:29:58 IST" duration-ms="43">
+    <groups>
+    </groups>
+    <test started-at="2022-10-13T12:29:58 IST" name="Default test" finished-at="2022-10-13T12:29:58 IST" duration-ms="43">
+      <class name="stepdefinition.tc1_steps">
+        <test-method signature="the_system_navigates_to_inbox_page()[pri:0, instance:stepdefinition.tc1_steps@20d28811]" started-at="2022-10-13T12:29:58 IST" name="the_system_navigates_to_inbox_page" finished-at="2022-10-13T12:29:58 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- the_system_navigates_to_inbox_page -->
+      </class> <!-- stepdefinition.tc1_steps -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
